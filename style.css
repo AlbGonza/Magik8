@@ -1,0 +1,28 @@
+html {
+    background-color: rgb(0, 0, 0);
+}
+
+.container {
+    height: 97px;
+    width: auto;
+}
+
+#ball {
+    height: 50%;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(199, 188, 232);
+}
+
+.form {
+    position: absolute;
+    text-align: center;
+    height: 60.5%;
+    top: 21%;
+    bottom: 21%;
+    left: 25%;
+    right: 25%;
+    color: white;
+}
